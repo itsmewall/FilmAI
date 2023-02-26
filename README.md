@@ -1,4 +1,4 @@
-* O objetivo deste projeto é criar um sistema de recomendação de filmes baseado em filtragem colaborativa em *Python* e implantá-lo na web. O projeto será dividido em sprints de 8 semanas para garantir um progresso constante e o cumprimento das metas estabelecidas. *
+* O objetivo deste projeto é criar um sistema de recomendação de filmes baseado em filtragem colaborativa em *Python* e implantá-lo na web. O projeto será dividido em sprints de 8 semanas para garantir um progresso constante e o cumprimento das metas estabelecidas. 
 
 ## Sprint 1:
 
